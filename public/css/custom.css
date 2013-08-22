@@ -1,0 +1,179 @@
+
+.header{
+	min-height: 8px;
+	background-color: #2e3639;
+	margin-bottom: 30px;
+}
+.header2{
+	min-height: 58px;
+	background-color: #2e3639;
+	margin-bottom: 30px;
+}
+
+.centers{
+	text-align: center;
+}
+.header h1 {
+font-family: 'Rokkitt' !important;
+font-style: normal;
+font-weight: 400;
+font-size: 3em;
+line-height: 1.1em;
+text-align: center;
+
+	margin: 0 auto;
+
+	padding-top: 5px;
+	padding-bottom: 5px;
+	color: #f9f9f9;	
+}
+	@media (max-width: 749px) {
+		.main-body{ 
+		padding: 30px 6.2%;
+
+		margin: 0 25px !important;
+
+	}}
+
+
+	@media (min-width: 750px) {
+		.main-body{ max-width: 750px;
+	padding: 30px 6.2%;
+
+	margin: 0 auto;
+
+	}}
+
+@media (max-width: 499px) {
+.logo{
+	text-align: center;
+	margin: 0 auto;
+	padding-bottom: 30px;
+
+}}
+
+@media (min-width: 500px) {
+.logo{
+	text-align: right;
+	margin: 0 auto;
+	padding-bottom: 30px;
+}}
+.smalll{
+
+	font-size: 80%;
+}
+.inner-body ul{
+	padding-left: 40px;
+	padding-bottom: 15px;
+
+
+}
+
+.header span {
+	opacity: 0.95;
+}
+
+.header p {
+	text-align: center;
+	font-size: 18px;
+	font-family: "opensans", opensans, Arial;
+}
+.b-heading{}
+.b-heading h1 {
+	font-family: 'Rokkitt' !important;
+	font-style: normal;
+	font-weight: 400;
+
+	font-size: 5.2em;
+	line-height: 1.1em;
+	margin-bottom: 20px;
+	text-align: center;
+}
+
+.box{
+	max-width: 500px;
+	margin: 0 auto;
+
+	
+	background-color: #2e3639; 
+	color: #fff;
+
+	padding: 20px;
+}
+
+.subhead{
+	max-width: 720px;
+	font-size: 1.5em;
+	margin: 0 auto;
+	text-align: center;
+	
+}
+
+.subhead p {
+	line-height: 1.4em;
+
+}
+
+.quote{
+	text-align: center;
+	margin: 0 auto;
+}
+
+.noone{
+	text-decoration: none;
+}
+
+.main-body{ max-width: 750px;
+	padding: 30px 6.2%;
+
+	margin: 0 auto;
+
+}
+
+.drag-right{
+	position: relative;
+	right: 80px;
+}
+body{
+	background-color: #e7e7e7;
+}
+
+/*#F5EFE6 */
+
+
+.container{
+	
+	
+	
+	
+}
+
+.inner-body{
+	border: 1px solid #ddd;
+	margin-top: 20px;
+	margin-bottom: 40px;
+
+	background-color: #FDFDFD;
+	font-family: georgia, "courier new", courier, monospace, 'Open Sans', sans-serif;/*'Lato'*/
+	line-height: 1.4em;
+	font-size: 100%;
+
+}
+strong{
+	text-align: center;
+}
+
+.themodal{
+	font-family: 'Open Sans', Arial, sans-serif;
+	font-weight: 100;
+	color: #fff;
+	font-size: 1em;
+			
+			text-align: center;
+			}
+
+}
+
+.bgg{
+	background-color: red;
+}
